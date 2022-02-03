@@ -39,7 +39,7 @@
 
 ### Um pouco das minhas experiências profissionais
 Atualmente (01/09/2021) estou trabalhando na [@Newgo](https://newgo.com.br/).
-Anteriormente não trabalhava na área de desenvolvimento, mas passei por garndes empresas como [@Netshoes](https://www.netshoes.com.br/), [@Tivit](https://www.tivit.com/) entre outras. 
+Anteriormente não trabalhava na área de desenvolvimento, mas passei por grandes empresas como [@Netshoes](https://www.netshoes.com.br/), [@Tivit](https://www.tivit.com/) entre outras. 
 
 ### Declare variáveis e não guerra 
 
